@@ -4,25 +4,24 @@
 
 ## About Me
 
-I'm a passionate developer with an interest in [your interests, e.g., web development, machine learning, etc.]. I love to explore new technologies and apply them to solve real-world problems.
+I'm a passionate developer with an interest in web and game development. I love to explore new technologies and apply them to solve real-world problems.
 
-- 🌱 I’m currently learning [current learning focus, e.g., React, TensorFlow, etc.]
-- 💬 Ask me about [topics you are knowledgeable about, e.g., JavaScript, Python, etc.]
-- 📫 How to reach me: [your email or social media]
+- 🌱 I’m currently learning Web Development
+- 📫 How to reach me: bacularobert@gmail.com
 
 ## My Skills
 
-- **Programming Languages:** [list of languages, e.g., JavaScript, Python, etc.]
-- **Frameworks/Libraries:** [list of frameworks/libraries, e.g., React, Node.js, etc.]
-- **Tools:** [list of tools, e.g., Git, Docker, etc.]
+- **Programming Languages:** Java, C, JavaScript, Python, C++, Rust
+- **Frameworks/Libraries:** Node.js, HTML, CSS
+- **Tools:** Git, Docker, Bash
 
 ## Projects
 
 Here are a few projects I've been working on:
 
-1. [Project Name](link-to-project) - A brief description of the project.
-2. [Project Name](link-to-project) - A brief description of the project.
-3. [Project Name](link-to-project) - A brief description of the project.
+1. [Pigs and Kings](https://github.com/rbctz/pigs-and-kings) - 2D platformer game. Can you defeat the Piglins' horde?
+2. [Ascii Art](https://github.com/rbctz/ascii-art) - ASCII art like spinning 3D cubes in a 2D terminal environment.
+3. [Flappy Bird AI](https://github.com/rbctz/flappy-bird-neat-ai) - Very simple copy of "Flappy Bird" played by AI trained by NEAT.
 
 ## GitHub Stats
 
@@ -30,6 +29,4 @@ Here are a few projects I've been working on:
 
 ## Let's Connect!
 
-- [LinkedIn](your-linkedin-profile)
-- [Twitter](your-twitter-profile)
-- [Personal Website](your-website)
+- [LinkedIn](https://www.linkedin.com/in/robert-bacula-5a5520332/)
